@@ -13,13 +13,7 @@ import {useAuthState} from 'react-firebase-hooks/auth';
 import {useCollectionData} from 'react-firebase-hooks/firestore';
 
 firebase.initializeApp({
-  apiKey: "AIzaSyB8uZo2USWER_YpIRY6kkwE8xHCATfPgXg",
-  authDomain: "chatonline10101.firebaseapp.com",
-  projectId: "chatonline10101",
-  storageBucket: "chatonline10101.appspot.com",
-  messagingSenderId: "621597305291",
-  appId: "1:621597305291:web:47d8d5dd60485470312e4e",
-  measurementId: "G-FEZF96P2FJ",
+  //your api//
 }); 
 
 const auth = firebase.auth(); 
