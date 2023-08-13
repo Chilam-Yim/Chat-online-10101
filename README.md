@@ -1,4 +1,4 @@
-This is a practice I learn from https://www.youtube.com/watch?v=zQyrwxMPm88&t=196s . 
+This is a full stack practice I learn from https://www.youtube.com/watch?v=zQyrwxMPm88&t=196s . 
 For the frontend, we use React, Javascript, HTML, and CSS.
 For the backend, we use Firebase to store all the data.
 
